@@ -1,0 +1,406 @@
+@media (min-width: 279px) and ( max-width: 319px){
+/* css code start*/
+.header .banner .inner-banner {
+    width: 100%;
+    padding: 46px 0px 92px;
+    margin: 0px 0px;
+}
+
+.inner-banner h1{
+    font-size: 28px;
+    line-height: 38px;
+}
+
+.inner-banner p{
+    font-size: 14px;
+    margin: 0px 0px 10px;
+}
+
+.inner-banner .btn-info {
+    margin: 15px 0px 0px;
+}  
+
+.feature .awesome h1{
+    font-size: 36px;
+    line-height: 46px;
+}
+
+.feature .awesome p{
+    font-size: 14px;
+}
+
+.code {
+    width: 100%;
+    padding: 50px 0px 10px;
+}
+
+.smart h2{ 
+    margin: 0px 0px;
+    font-weight: 600;
+}
+
+.rise p{
+    font-size: 14px;
+    margin: 10px 0px 15px;
+}
+
+.part{
+    padding: 30px 0px 0px 50px
+}
+
+.inner-code h1 {
+    font-size: 28px;
+    line-height: 38px;
+    font-weight: 600;
+    margin: 0px 0px 20px;
+}
+
+.app {
+    width: 100%;
+    padding: 40px 0px 20px;
+}
+
+.built {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.built .ultimate {
+    margin: 0px 0px 0px 0px
+}
+
+.built-details1 {
+    padding: 10px 0px 45px 70px;
+}
+
+.package{
+    padding: 35px 0px;
+}
+
+.package .price-box1{
+    margin: 0px 0px 30px 0px;
+}
+
+.meet{
+    padding: 25px 0px;
+}
+
+.meet .meet-body p{
+    font-size: 14px;
+}
+
+.download{
+    padding: 35px 0px;
+}
+
+.download .app-img .ap1 {
+    margin: 0px 5px 0px -14px;
+}
+/* css code end*/
+}
+
+@media (min-width: 320px) and ( max-width: 480px){
+/* css code start*/
+.header .banner .inner-banner {
+    width: 100%;
+    padding: 46px 0px 92px;
+    margin: 0px 0px;
+}
+
+.inner-banner h1{
+    font-size: 34px;
+    line-height: 44px;
+}
+
+.inner-banner p{
+    font-size: 13px;
+    margin: 0px 0px 10px;
+}
+
+.inner-banner .btn-info {
+    margin: 15px 5px 0px;
+}  
+
+.feature .awesome h1{
+    font-size: 34px;
+    line-height: 44px;
+}
+
+.feature .awesome p{
+    font-size: 14px;
+}
+
+.code {
+    width: 100%;
+    padding: 50px 0px 10px;
+}
+
+.smart h2{ 
+    margin: 0px 0px;
+    font-weight: 600;
+}
+
+.rise p{
+    font-size: 14px;
+    margin: 10px 0px 15px;
+}
+
+.part{
+    padding: 30px 0px 0px 50px
+}
+
+.inner-code h1 {
+    font-size: 34px;
+    line-height: 44px;
+    font-weight: 600;
+    margin: 0px 0px 20px;
+}
+
+.app {
+    width: 100%;
+    padding: 40px 0px 20px;
+}
+
+.built {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.built .ultimate {
+    margin: 0px 0px 0px 0px
+}
+
+.built-details1 {
+    padding: 10px 0px 45px 70px;
+}
+
+.package{
+    padding: 35px 0px;
+}
+
+.package .price-box1{
+    margin: 0px 0px 30px 0px;
+}
+
+.meet{
+    padding: 25px 0px;
+}
+
+.meet .meet-body p{
+    font-size: 14px;
+}
+
+.download{
+    padding: 35px 0px;
+}
+
+.download .app-img .ap1 {
+    margin: 0px 5px 0px -14px;
+}
+
+/* css code end*/
+}
+
+@media (min-width: 481px) and ( max-width: 767px){
+/* css code start*/
+.header .banner .inner-banner {
+    width: 100%;
+    padding: 46px 0px 92px;
+    margin: 0px 0px;
+}
+
+.inner-banner h1{
+    font-size: 36px;
+    line-height: 46px;
+}
+
+.inner-banner p{
+    font-size: 15px;
+    margin: 0px 0px 10px;
+}
+
+.inner-banner .btn-info {
+    margin: 15px 5px 0px;
+}  
+
+.feature .awesome h1{
+    font-size: 36px;
+    line-height: 46px;
+}
+
+.feature .awesome p{
+    font-size: 18px;
+}
+
+.code {
+    width: 100%;
+    padding: 50px 0px 10px;
+}
+
+.smart h2{ 
+    margin: 0px 0px;
+    font-weight: 600;
+}
+
+.rise p{
+    font-size: 18px;
+    margin: 10px 0px 15px;
+}
+
+.part{
+    padding: 30px 0px 0px 50px
+}
+
+.inner-code h1 {
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 600;
+    margin: 0px 0px 20px;
+}
+
+.app {
+    width: 100%;
+    padding: 40px 0px 20px;
+}
+
+.built {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.built .ultimate {
+    margin: 0px 0px 0px 0px
+}
+
+.built-details1 {
+    padding: 10px 0px 45px 70px;
+}
+
+.package{
+    padding: 35px 0px;
+}
+
+.package .price-box1{
+    margin: 0px 0px 30px 0px;
+}
+
+.meet{
+    padding: 25px 0px;
+}
+
+.meet .meet-body p{
+    font-size: 16px;
+}
+
+.download{
+    padding: 35px 0px;
+}
+
+.download .app-img .ap1 {
+    margin: 0px 5px 0px -14px;
+}
+
+/* css code end*/
+}
+
+@media (min-width: 768px) and ( max-width: 1024px){
+/* css code start*/
+.header .banner .inner-banner {
+    width: 100%;
+    padding: 46px 0px 92px;
+    margin: 0px 0px;
+}
+
+.inner-banner h1{
+    font-size: 38px;
+    line-height: 48px;
+}
+
+.inner-banner p{
+    font-size: 15px;
+    margin: 0px 0px 10px;
+}
+
+.inner-banner .btn-info {
+    margin: 15px 5px 0px;
+}  
+
+.feature .awesome h1{
+    font-size: 38px;
+    line-height: 48px;
+}
+
+.feature .awesome p{
+    font-size: 20px;
+}
+
+.code {
+    width: 100%;
+    padding: 50px 0px 10px;
+}
+
+.smart h2{ 
+    margin: 0px 0px;
+    font-weight: 600;
+}
+
+.rise p{
+    font-size: 20px;
+    margin: 10px 0px 15px;
+}
+
+.part{
+    padding: 30px 0px 0px 50px
+}
+
+.inner-code h1 {
+    font-size: 38px;
+    line-height: 48px;
+    font-weight: 600;
+    margin: 0px 0px 20px;
+}
+
+.app {
+    width: 100%;
+    padding: 40px 0px 20px;
+}
+
+.built {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.built .ultimate {
+    margin: 0px 0px 0px 0px
+}
+
+.built-details1 {
+    padding: 10px 0px 45px 70px;
+}
+
+.package{
+    padding: 35px 0px;
+}
+
+.package .price-box1{
+    margin: 0px 0px 30px 0px;
+}
+
+.meet{
+    padding: 25px 0px;
+}
+
+.meet .meet-body p{
+    font-size: 18px;
+}
+
+.download{
+    padding: 35px 0px;
+}
+
+.download .app-img .ap1 {
+    margin: 0px 5px 0px -14px;
+}
+
+/* css code end*/
+}
